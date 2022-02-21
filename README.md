@@ -39,7 +39,10 @@ Inside EMOPIA/workspace/transformer/SER/Main.py:
 - line 152: Change the /bin directory with the location of your Python virtual environment
 - line 163/164: Change the hard-coded IP addresses with the addresses of your OSC servers
 ## How to use it
-
+In order to start the main script you must place yourself inside the EMOPIA/workspace/transformer/SER folder and run the command 
+```
+$ sudo <your Python venv folder>/ipython Main.py
+```
 ## Animations
 
 Run the animations on Processing. The animations receive OSC messages, therefore if you changed some parameter in python script, check the parameters of the OSC Server. We suggest to use the animations on different displays becuase they run in fullscreen.
