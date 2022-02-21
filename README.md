@@ -3,6 +3,7 @@
 
 ## Requirements
 - **The software has been tested using Python 3.8.12**
+- **It is recommended to create a Python virtual environment**
 ### Python Packages
 #### SER
 - **tensorflow**
@@ -15,6 +16,21 @@
 - **tqdm**
 - **matplotlib**
 - **pyaudio**
+#### EMOPIA
+- **torch==1.7.0**
+- **pytorch-fast-transformers**
+- **scikit-learn==0.24.1**
+- **seaborn==0.11.1**
+- **numpy==1.19.5**
+- **miditoolkit==0.1.14**
+- **pandas==1.1.5**
+- **ipdb**
+- **tqdm**
+- **matplotlib**
+- **scipy**
+- **pickle**
+- **pygame**
+- **pythonosc**
 ## Custom Changes
 
 ## How to use it
