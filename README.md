@@ -4,7 +4,7 @@
 ## Installation
 In order to run the application you must first download and unzip the EMOPIA folder at this [link](https://drive.google.com/drive/folders/1JtruBsR3E6SQ1y5jAksfKCJKwC7daoYj?usp=sharing). This folder contains all the scripts used for Automatic Music Generation and Speech Emotion Recognition. You can see the networks we started from original repositories: [SER](https://github.com/x4nth055/emotion-recognition-using-speech) and [EMOPIA](https://github.com/annahung31/EMOPIA).
 ## Requirements
-- **The software has been tested using Python 3.8.12 running on a Linux system (Fedora Linux 35)**
+- **The software has been tested using Python 3.8.12 running on a Fedora Linux system**
 - **It is recommended to create a Python virtual environment**
 ### Python Packages
 #### SER
