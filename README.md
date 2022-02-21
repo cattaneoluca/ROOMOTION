@@ -43,6 +43,7 @@ In order to start the main script you must place yourself inside the EMOPIA/work
 ```
 $ sudo <your Python venv folder>/ipython Main.py
 ```
+Then, in order to trigger the start of the recording you must hit the spacebar key on your keyboard. After the recording is done, the application will automatically try to recognize its main emotion and generate a short song based on that emotion.
 ## Animations
 
 Run the animations on Processing. The animations receive OSC messages, therefore if you changed some parameter in python script, check the parameters of the OSC Server. We suggest to use the animations on different displays becuase they run in fullscreen.
