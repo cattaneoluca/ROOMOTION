@@ -2,7 +2,19 @@
 ## Introduction
 
 ## Requirements
-
+- **Python 3.6+**
+### Python Packages
+#### SER
+- **tensorflow**
+- **librosa**
+- **numpy**
+- **pandas**
+- **soundfile**
+- **wave**
+- **sklearn**
+- **tqdm**
+- **matplotlib**
+- **pyaudio**
 ## Custom Changes
 
 ## How to use it
