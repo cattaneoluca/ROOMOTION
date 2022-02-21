@@ -37,7 +37,7 @@ In order to run the application you must first download and unzip the EMOPIA fol
 Inside EMOPIA/workspace/transformer/SER/Main.py:
 - line 3: os.environ["XDG_RUNTIME_DIR"]="/run/user/1000" is only necessary on Linux systems that use PulseAudio.
 - line 152: Change the /bin directory with the location of your Python virtual environment
-- line 163/164: Change the hard-coded IP addresses with the addresses of your OSC servers, if you are using different devices you need to be connected to the same network
+- line 163/164: Change the hard-coded IP addresses with the addresses of your OSC servers. If you are using different devices you need to be connected to the same network
 ## How to use it
 In order to start the main script you must place yourself inside the EMOPIA/workspace/transformer/SER folder and run the command 
 ```
