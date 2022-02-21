@@ -32,7 +32,10 @@
 - **pygame**
 - **pythonosc**
 ## Custom Changes
-
+Inside EMOPIA/workspace/transformer/SER/Main.py:
+- line 3: os.environ["XDG_RUNTIME_DIR"]="/run/user/1000" is only necessary on Linux systems that use PulseAudio.
+- line 152: Change the /bin directory with the location of your Python virtual environment
+- line 163/164: Change the hard-coded IP addresses with the addresses of your OSC servers
 ## How to use it
 
 ## Animations
