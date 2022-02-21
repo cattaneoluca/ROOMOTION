@@ -2,7 +2,7 @@
 ## Introduction
 
 ## Installation
-In order to run the application you must first download and unzip the folder at this [link](https://drive.google.com/drive/folders/1JtruBsR3E6SQ1y5jAksfKCJKwC7daoYj?usp=sharing)
+In order to run the application you must first download and unzip the EMOPIA folder at this [link](https://drive.google.com/drive/folders/1JtruBsR3E6SQ1y5jAksfKCJKwC7daoYj?usp=sharing)
 ## Requirements
 - **The software has been tested using Python 3.8.12**
 - **It is recommended to create a Python virtual environment**
