@@ -2,7 +2,7 @@
 ## Introduction
 
 ## Requirements
-- **Python 3.6+**
+- **The software has been tested using Python 3.8.12**
 ### Python Packages
 #### SER
 - **tensorflow**
