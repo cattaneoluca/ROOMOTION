@@ -1,5 +1,9 @@
 # ROOMOTION
 ## Introduction
+ROOMOTION "Room" + "Emotion" is thought to be an installation.
+Emotions are recognised from the voice of the user and music along 
+with visuals on the screen are generated from the captured emotions, 
+creating a whole personal world for the user.
 
 ## Installation
 In order to run the application you must first download and unzip the EMOPIA folder at this [link](https://drive.google.com/drive/folders/1JtruBsR3E6SQ1y5jAksfKCJKwC7daoYj?usp=sharing). This folder contains all the scripts used for Automatic Music Generation and Speech Emotion Recognition. You can see the networks we started from original repositories: [SER](https://github.com/x4nth055/emotion-recognition-using-speech) and [EMOPIA](https://github.com/annahung31/EMOPIA).
