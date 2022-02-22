@@ -30,12 +30,7 @@ class ParticleSystem{
     this.p4=0;
   }
   
-  /*ParticleSystem(PVector origin){
-    this.particles = new ArrayList<Particle>();
-    //this.origin=origin.copy();
-    this.colour = color(255, 255, 255);
-  }*/
-  
+  //get color from emotions' probabilities  
   color getColor(){
     float seed = random(0,1);
     if(seed<this.p1) return this.c[0];
@@ -63,6 +58,7 @@ class ParticleSystem{
     this.acceleration.add(force);
   }
   
+  //compute position along the elliptic trajectory
   void circularMotion(){
     float x = width/2 + cos(this.angle)*width/2.5;
     float y = height/2 - sin(this.angle)*height/3;

@@ -8,9 +8,7 @@ class Particle{
     this.location= location.copy();
     this.velocity = new PVector(random(-0.1, 0.1), random(-0.1, 0.1));
     this.velocity.mult(20);
-    /*if(this.velocity.mag()>15){
-      this.velocity.mult(15/this.velocity.mag());  
-    }*/
+
 
     this.acceleration = new PVector();
     this.radius_circle=radius_circle;
@@ -50,6 +48,7 @@ class Particle{
     }
   }
   
+  //draw the particle
   void action(){
     this.planning();    
     fill(this.colour, map(this.lifespan,0,200,0,255));
@@ -57,6 +56,7 @@ class Particle{
     ellipse(this.location.x, this.location.y, this.radius_circle, this.radius_circle);    
   }
   
+  //compute steering force towards desired position
   void seek(PVector target){
     PVector desired = PVector.sub(target, location);
     desired.normalize();
