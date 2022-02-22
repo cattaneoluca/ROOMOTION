@@ -51,7 +51,7 @@ class ParticleSystem{
     if(this.p1+this.p2+this.p3+this.p4 > threshold) 
                                     c = this.getColor();
     
-    this.particles.add(new Particle(new PVector(0,random(0,height)), 4, 200, c));   
+    this.particles.add(new Particle(new PVector(0,random(0,height)), 6, 200, c));   
   }
   
   void update(){    
