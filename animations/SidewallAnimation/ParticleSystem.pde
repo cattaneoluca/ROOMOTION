@@ -36,11 +36,6 @@ class ParticleSystem{
     this.p4=0;
   }
   
-  /*ParticleSystem(PVector origin){
-    this.particles = new ArrayList<Particle>();
-    //this.origin=origin.copy();
-    this.colour = color(255, 255, 255);
-  }*/
   
   color getColor(){
     float seed = random(0,1);
@@ -98,8 +93,7 @@ class ParticleSystem{
     Particle p;
     for(int i=this.particles.size()-1; i>=0; i--){
       p=this.particles.get(i);
-      //p.seek(steering);
-      //p.applyForce(new PVector(random(-0.1, 0.1), random(0.1,0.3)));
+
       p.action();
       p.lifespan-=0.5;
       if(p.isDead()){
@@ -107,9 +101,6 @@ class ParticleSystem{
          this.addParticle();
       }
     }
-    //this.applyMove(new PVector(random(-0.1, 0.1), random(-0.1,0.1)));
-    //this.update();
-    //this.circularMotion();
     this.checkEdges();
   }
 

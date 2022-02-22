@@ -58,6 +58,7 @@ class Particle{
     ellipse(this.location.x, this.location.y, this.radius_circle, this.radius_circle);    
   }
   
+  //compute and apply steering force
   void seek(PVector target){
     PVector desired = PVector.sub(target, location);
     desired.normalize();
