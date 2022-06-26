@@ -36,7 +36,8 @@ In order to run the application you must first download and unzip the EMOPIA fol
 - **scipy**
 - **pickle**
 - **pygame**
-- **pythonosc**
+- **python-osc**
+- **keyboard**
 ## Custom Changes
 Inside EMOPIA/workspace/transformer/SER/Main.py:
 - line 3: os.environ["XDG_RUNTIME_DIR"]="/run/user/1000" is only necessary on Linux systems that use PulseAudio.
