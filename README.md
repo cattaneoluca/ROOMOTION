@@ -6,7 +6,7 @@ with visuals on the screen are generated from the captured emotions,
 creating a whole personal world for the user.
 
 ## Installation
-In order to run the application you must first download and unzip the EMOPIA folder at this [link](https://drive.google.com/drive/folders/1JtruBsR3E6SQ1y5jAksfKCJKwC7daoYj?usp=sharing). This folder contains all the scripts used for Automatic Music Generation and Speech Emotion Recognition. You can see the networks we started from original repositories: [SER](https://github.com/x4nth055/emotion-recognition-using-speech) and [EMOPIA](https://github.com/annahung31/EMOPIA).
+In order to run the application you must first download and unzip the EMOPIA folder at this [link](https://drive.google.com/drive/folders/1XneQyTCLo9_nMvnhBh8rdnCdmAFoTWcL?usp=sharing). This folder contains all the scripts used for Automatic Music Generation and Speech Emotion Recognition. You can see the networks we started from original repositories: [SER](https://github.com/x4nth055/emotion-recognition-using-speech) and [EMOPIA](https://github.com/annahung31/EMOPIA).
 ## Requirements
 - **The software has been tested using Python 3.8.12 running on Fedora Linux 35**
 - **It is recommended to create a Python virtual environment**
