@@ -10,10 +10,10 @@ central screen: could be any work of art. The user could interact with it by pai
 ![](images/CatturaMona.PNG)
 
 the side walls with the different emotions:
-![](images/Immagine1) ![](images/Immagine2) ![](images/Immagine3) ![](images/Immagine4)  
+![](images/Immagine1.png) ![](images/Immagine2.png) ![](images/Immagine3.png) ![](images/Immagine4.png)  
 
 the floor:
-![](images/floor) 
+![](images/floor.png) 
 
 ## Installation
 In order to run the application you must first download and unzip the EMOPIA folder at this [link](https://drive.google.com/drive/folders/1XneQyTCLo9_nMvnhBh8rdnCdmAFoTWcL?usp=sharing). This folder contains all the scripts used for Automatic Music Generation and Speech Emotion Recognition. You can see the networks we started from original repositories: [SER](https://github.com/x4nth055/emotion-recognition-using-speech) and [EMOPIA](https://github.com/annahung31/EMOPIA).
