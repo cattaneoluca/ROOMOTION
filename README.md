@@ -8,7 +8,7 @@ generated from the captured emotions, creating a whole personal world for the us
 Here are some images of the room:
 central screen: could be any work of art. The user could interact with it by painting on it with his hands
 
-<img src = "images/CatturaMona.PNG" width="600" height="700">
+<img src = "images/CatturaMona.PNG" width="650" height="700">
 
 
 the side walls with the different emotions:
