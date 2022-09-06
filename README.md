@@ -10,6 +10,7 @@ central screen: could be any work of art. The user could interact with it by pai
 ![](images/CatturaMona.PNG)
 
 the side walls with the different emotions:
+
 ![](images/Immagine1.png) ![](images/Immagine2.png) ![](images/Immagine3.png) ![](images/Immagine4.png)  
 
 the floor:
