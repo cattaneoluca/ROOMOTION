@@ -5,6 +5,16 @@ An immersive and interactive experience in which emotions are recognised
 from the voice of the user and music along with visuals on the screen are 
 generated from the captured emotions, creating a whole personal world for the user.
 
+Here are some images of the room:
+central screen: could be any work of art. The user could interact with it by painting on it with his hands
+![](images/CatturaMona.PNG)
+
+the side walls with the different emotions:
+![](images/Immagine1) ![](images/Immagine2) ![](images/Immagine3) ![](images/Immagine4)  
+
+the floor:
+![](images/floor) 
+
 ## Installation
 In order to run the application you must first download and unzip the EMOPIA folder at this [link](https://drive.google.com/drive/folders/1XneQyTCLo9_nMvnhBh8rdnCdmAFoTWcL?usp=sharing). This folder contains all the scripts used for Automatic Music Generation and Speech Emotion Recognition. You can see the networks we started from original repositories: [SER](https://github.com/x4nth055/emotion-recognition-using-speech) and [EMOPIA](https://github.com/annahung31/EMOPIA).
 ## Requirements
