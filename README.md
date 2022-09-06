@@ -5,7 +5,7 @@ An immersive and interactive experience in which emotions are recognised
 from the voice of the user and music along with visuals on the screen are 
 generated from the captured emotions, creating a whole personal world for the user.
 
-Here are some images of the room:
+Here are some images of the room. 
 central screen: could be any work of art. The user could interact with it by painting on it with his hands
 
 <img src = "images/CatturaMona.PNG" width="650" height="700">
