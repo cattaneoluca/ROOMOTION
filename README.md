@@ -17,7 +17,7 @@ The considered emotions are: Anger, Happiness, Sadness, and Neutral/Calm.
 
 ![](images/Immagine1.png) ![](images/Immagine2.png) ![](images/Immagine3.png) ![](images/Immagine4.png)  
 
-the floor: the user's position is mapped to the center of the sfere, so as the user moves he can see the sphere moving with him on the floor. 
+the floor: the user's position in the room is mapped to the center of the sfere, so as the user moves he can see the sphere moving with him on the floor. 
 Moreover, as the user speaks, the particles of the sphere brighten creating a shiny effect.
 
 ![](images/floor.png) 
