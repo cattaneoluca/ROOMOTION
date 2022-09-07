@@ -13,7 +13,7 @@ central screen: could be any work of art. The user could interact with it by pai
 
 the side walls with the different emotions: the colors mapping to emotions are done following the [Color Theory of J. W. Von Goethe]( https://www.themarginalian.org/2012/08/17/goethe-theory-of-colours/). Also, the movements of the particles change with the emotion 
 following the [Arousal/Valence model](https://www.researchgate.net/figure/The-2D-valence-arousal-model-of-emotion-proposed-by-Russel-50_fig1_330861905). 
-The considered emotions are: Happiness, Sadness, Anger and Neutral/Calm.
+The considered emotions are: Anger, Happiness, Sadness, and Neutral/Calm.
 
 ![](images/Immagine1.png) ![](images/Immagine2.png) ![](images/Immagine3.png) ![](images/Immagine4.png)  
 
