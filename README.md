@@ -1,4 +1,5 @@
 # ROOMOTION
+Cured by: Zouzoua Axel Israel BLE, Luca Cattaneo and Giovanni Zanocco
 ## Introduction
 ROOMOTION "Room" + "Emotion" is thought to be an installation.
 An immersive and interactive experience in which emotions are recognised 
